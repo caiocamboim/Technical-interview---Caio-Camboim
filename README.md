@@ -22,6 +22,6 @@ Explore the provided CSV files, prepare clean datasets, and build a clear dashbo
 
 ## Dashboard
 
-- **Charts**: trend (time series), bar (top categories), ranking (top N), table (detail).
+- **Charts**: 
 
 
